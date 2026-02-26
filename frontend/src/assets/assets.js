@@ -693,7 +693,8 @@ export const products = [
         category: "Kids",
         subCategory: "Bottomwear",
         sizes: ["S", "M", "L", "XL"],
-        date: 1716666245448, bestseller: false
+        date: 1716666245448, 
+        bestseller: false
     },
     {
         _id: "aaaby",
